@@ -1,17 +1,17 @@
 <!DOCTYPE css>
 <css lang="en">
-nav{
+
   ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  border: 1px solid #555;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #555;
   }
     li a {
-    display: inline;
-    width: 150px;
-    text-align: center;
-    background-color: light-green;
+      display: inline;
+      width: 150px;
+      text-align: center;
+      background-color: light-green;
    }
-}
+
 </css>
