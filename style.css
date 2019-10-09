@@ -1,16 +1,16 @@
 <!DOCTYPE css>
 <css lang="en">
-  ol{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  border: 1px solid #555;
+ol {
+list-style-type: none;
+margin: 0;
+padding: 0;
+border: 1px solid #555;
+}
+  li a {
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+  background-color: light-green;
   }
-    li a {
-    display: inline-block;
-    width: 150px;
-    text-align: center;
-    background-color: light-green;
-    }
 
 </css>
