@@ -1,6 +1,5 @@
 <!DOCTYPE css>
 <css lang="en">
-nav{
   ol{
   list-style-type: none;
   margin: 0;
@@ -13,5 +12,5 @@ nav{
     text-align: center;
     background-color: light-green;
     }
-}
+
 </css>
