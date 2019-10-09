@@ -1,17 +1,48 @@
-<!DOCTYPE css>
-<css lang="en">
 
-  ul {
+  ol {
+    position: fixed;
+    top: 0;
+    width: 100%;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    border: 1px solid #555;
+    overflow: hidden;
+    background-color: gray;
   }
-    li a {
-      display: inline;
-      width: 150px;
+    li {
+      float: left;
+    }
+      a {
+      display: block;
       text-align: center;
-      background-color: light-green;
-   }
+      border: 1px solid #555;
+      padding: 10px;
 
-</css>
+
+    }
+    /* Change the link color on hover */
+    li a:hover {
+      background-color: #555;
+      color: white;
+    }
+    .active {
+     background-color: #4CAF50;
+    }
+  dl{
+
+  }
+    dt {
+      padding: 5px;
+    }
+
+  body{
+    text-align: left-center;
+    width: 600px
+  }
+    img {
+      align-items: right;
+    }
+
+  h1 {
+    margin-top: 50px
+  }
