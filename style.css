@@ -41,13 +41,10 @@
   }
 
   p {
-    text-align: left-center;
+    text-align: left;
     width: 600px;
   }
-    img {
-      align-items: right;
-    }
-
+  
   h1 {
     margin-top: 70px;
     border-bottom: 4px solid #555;
